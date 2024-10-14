@@ -10,8 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.0.0-beta.4",
     "@astrojs/check": "^0.9.4",
+    "astro": "^5.0.0-beta.4",
+    "notion-astro-loader": "^0.3.0",
     "typescript": "^5.6.3"
   }
 }
